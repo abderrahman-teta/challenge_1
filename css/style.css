@@ -59,12 +59,12 @@ body {
 .submit {
   margin: 0 auto;
   width: 85%;
-  margin-top: 1em;
+  margin-top: 1.2em;
   color: white;
   background-color: hsl(245, 75%, 52%);
   border: none;
   font-size: 1.1em;
-  padding: 0.9em 4em;
+  padding: 0.8em 4em;
   border-radius: 15px;
   box-shadow: 1px 19px 19px -4px rgba(0, 0, 0, 0.3);
   -webkit-box-shadow: 1px 19px 19px -4px rgb(0 0 0 / 30%);
