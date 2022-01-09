@@ -63,7 +63,8 @@ body {
   color: white;
   background-color: hsl(245, 75%, 52%);
   border: none;
-  padding: 1em 4em;
+  font-size: 1.1em;
+  padding: 1.2em 4em;
   border-radius: 15px;
   box-shadow: 1px 19px 19px -4px rgba(0, 0, 0, 0.3);
   -webkit-box-shadow: 1px 19px 19px -4px rgb(0 0 0 / 30%);
