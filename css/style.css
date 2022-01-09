@@ -84,6 +84,7 @@ body {
   margin-bottom: 20px;
   color: hsl(224, 23%, 55%);
   transition: ease-in-out 250ms;
+
   margin-bottom: 50px;
 }
 .cancle:hover {
