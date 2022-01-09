@@ -29,7 +29,7 @@ body {
   margin: 0 auto;
   width: 80%;
   text-align: center;
-  margin-top: 20px;
+  margin-top: 25px;
   margin-bottom: 20px;
   font-family: "Red Hat Display";
   color: hsl(224, 23%, 55%);
@@ -39,7 +39,7 @@ body {
 .dec h3 {
   margin: 20px 0;
   font-weight: 1000;
-  font-size: 1.25em;
+  font-size: 1.8em;
   color: black;
 }
 .plan {
@@ -49,7 +49,7 @@ body {
   margin: 0 auto;
   justify-content: space-between;
   background-color: hsl(225, 100%, 98%);
-  padding: 15px 20px;
+  padding: 20px 20px;
   margin-bottom: 20px;
   border-radius: 15px;
 }
@@ -65,9 +65,9 @@ body {
   border: none;
   padding: 1em 4em;
   border-radius: 15px;
-  box-shadow: 1px 19px 19px -4px rgb(0 0 0 / 36%);
-  -webkit-box-shadow: 1px 19px 19px -4px rgb(0 0 0 / 36%);
-  -moz-box-shadow: 1px 19px 19px -4px rgba(0, 0, 0, 0.36);
+  box-shadow: 1px 19px 19px -4px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 1px 19px 19px -4px rgb(0 0 0 / 30%);
+  -moz-box-shadow: 1px 19px 19px -4px rgba(0, 0, 0, 0.3);
   transition: ease-in-out 250ms;
 }
 
